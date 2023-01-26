@@ -5,3 +5,4 @@ zöld
 lila
 pink
 sárga
+barna
