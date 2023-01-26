@@ -6,3 +6,4 @@ lila
 pink
 sárga
 narancs
+barna
